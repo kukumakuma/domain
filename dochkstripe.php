@@ -2,7 +2,7 @@
 
 ////////////////=============[Made with ❤️ by AndryMata]===============////////////////
 
-///https://api.telegram.org/bot2001265692:AAE7qTjPiFuhzrqtE4hSZd4zKaj4vFl3dOk/setWebhook?url=https://dochkbot.herokuapp.com/
+///https://api.telegram.org/bot2001265692:AAE7qTjPiFuhzrqtE4hSZd4zKaj4vFl3dOk/setWebhook?url=https://idongoxxyznxx.me/
 
 $botToken = "2001265692:AAE7qTjPiFuhzrqtE4hSZd4zKaj4vFl3dOk"; // Enter ur bot token
 $website = "https://api.telegram.org/bot".$botToken;
